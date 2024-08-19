@@ -1,0 +1,14 @@
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\bin\Debug\net8.0\CustomerManagement.deps.json
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\bin\Debug\net8.0\CustomerManagement.runtimeconfig.json
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\bin\Debug\net8.0\CustomerManagement.dll
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\bin\Debug\net8.0\CustomerManagement.pdb
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.csproj.AssemblyReference.cache
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.AssemblyInfoInputs.cache
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.AssemblyInfo.cs
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.dll
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\refint\CustomerManagement.dll
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.pdb
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\CustomerManagement.genruntimeconfig.cache
+C:\Users\KFayazUddin\source\repos\CustomerManagementSolution\CustomerManagement\obj\Debug\net8.0\ref\CustomerManagement.dll

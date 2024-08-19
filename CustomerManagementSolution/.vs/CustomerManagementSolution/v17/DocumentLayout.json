@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|solutionrelative:customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customermanagement\\extension\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\extension\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customerwebapi\\controllers\\customercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|solutionrelative:customerwebapi\\controllers\\customercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customerwebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762A1CEC-5376-45C9-AB44-90FE49562A7B}|CustomerWebAPI\\CustomerWebAPI.csproj|solutionrelative:customerwebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customermanagement\\repo\\icustomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\repo\\icustomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customermanagement\\repo\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\repo\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customermanagement\\models\\customermngcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\models\\customermngcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|c:\\users\\kfayazuddin\\source\\repos\\customermanagementsolution\\customermanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13225AD0-A597-4E16-BA33-EAEAA31DAA96}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Extension\\Services.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Extension\\Services.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Extension\\Services.cs",
+              "RelativeToolTip": "CustomerManagement\\Extension\\Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:09:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Program.cs",
+              "RelativeToolTip": "CustomerWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:04:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomermngContext.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Models\\CustomermngContext.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Models\\CustomermngContext.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Models\\CustomermngContext.cs",
+              "RelativeToolTip": "CustomerManagement\\Models\\CustomermngContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:52:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerManagement\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:52:11.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Repo\\CustomerLogin.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Repo\\CustomerLogin.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Repo\\CustomerLogin.cs",
+              "RelativeToolTip": "CustomerManagement\\Repo\\CustomerLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerWebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerWebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:11.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Repo\\ICustomerLogin.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Repo\\ICustomerLogin.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerManagement\\Repo\\ICustomerLogin.cs",
+              "RelativeToolTip": "CustomerManagement\\Repo\\ICustomerLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:08.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController1.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Controllers\\CustomerController1.cs",
+              "RelativeDocumentMoniker": "CustomerWebAPI\\Controllers\\CustomerController1.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\source\\repos\\CustomerManagementSolution\\CustomerWebAPI\\Controllers\\CustomerController1.cs",
+              "RelativeToolTip": "CustomerWebAPI\\Controllers\\CustomerController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:57:26.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
